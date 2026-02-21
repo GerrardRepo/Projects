@@ -2,13 +2,11 @@
 
 A simple command-line autocomplete project built from scratch in Python using a **Trie** (prefix tree).
 
-This project loads a word list from a text file (`Common.txt`) and lets the user type a prefix to get matching word suggestions in the terminal. The implementation stores each node’s children in a **sorted linked list**, which is a nice low-level design choice that shows data structure fundamentals beyond using Python dictionaries. :contentReference[oaicite:0]{index=0}
+This project loads a word list from a text file (`Common.txt`) and lets the user type a prefix to get matching word suggestions in the terminal. The implementation stores each node’s children in a **sorted linked list**, which is a nice low-level design choice that shows data structure fundamentals beyond using Python dictionaries.
 
 ---
 
-## What This Project Does (Non-Technical)
-
-Think of this like a mini search bar:
+## How it works
 
 - You type a few letters (for example: `app`)
 - The program looks through its word list
