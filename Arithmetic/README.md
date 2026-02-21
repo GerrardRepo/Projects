@@ -7,6 +7,7 @@ The workflow uses:
 - a **supervised fine-tuned (SFT) checkpoint** as the starting model (`sft/gpt.pt`)
 - a **preference dataset** of positive/negative response pairs (`pos_neg_pairs.json`)
 - a local GPT implementation from `model.py` (`GPT`, `GPTConfig`)
+- the ZIP includes a pos-neg pair generator which dumps into a JSON.
 
 ---
 
