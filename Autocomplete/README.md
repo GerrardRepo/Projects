@@ -78,3 +78,6 @@ If a word is not found in the ranking file, it is placed later.
 
 ---
 
+## Output sample
+![image alt](https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/Autocomplete%20Output.png?raw=true)
+
