@@ -7,7 +7,7 @@ This repository is a collection of projects I built to strengthen practical skil
 - **Cybersecurity engineering**
 - **Software development** 
 - **AI/ML experimentation**
-- **Systems thinking** 
+- **Programming skills**
 
 ## What this portfolio is for
 
