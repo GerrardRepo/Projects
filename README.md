@@ -4,7 +4,7 @@ Computer Engineering student focused on **cybersecurity, and applied AI/ML**.
 
 This repository is a collection of projects I built to strengthen practical skills in:
 
-- **Cybersecurity engineering**
+- **Applied Cryptography**
 - **Software development** 
 - **AI/ML experimentation**
 - **Programming skills**
