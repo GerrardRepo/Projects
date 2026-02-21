@@ -1,6 +1,6 @@
 # AI Chatbot
 
-A simple command-line chatbot built with **LangChain** and **OpenAI** that streams responses token-by-token in the terminal.
+A simple command line chatbot built with **LangChain** and **OpenAI** that streams responses by token in the terminal.
 
 ## Features
 
@@ -17,4 +17,5 @@ A simple command-line chatbot built with **LangChain** and **OpenAI** that strea
 - python-dotenv
 
 ---
+
 
