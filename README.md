@@ -18,6 +18,6 @@ This repo is meant to show how I approach technical work:
 - document assumptions and tradeoffs
 - improve iteratively through testing/debugging
 
-I use these projects to translate theory from coursework and certifications into hands-on implementation.
+I use these projects to translate theory from coursework and certifications into hands on implementation.
 
 ---
