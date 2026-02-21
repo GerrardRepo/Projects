@@ -38,4 +38,4 @@ The notebook trains a model to prefer better answers over worse ones using DPO.
 ---
 
 ## Sample Output
-!(https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/DPO%20Output.png?raw=true)
+![image alt](https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/DPO%20Output.png?raw=true)
