@@ -6,6 +6,7 @@ A simple command line chatbot built with **LangChain** and **OpenAI** that strea
 
 - Chat with an OpenAI model of your choosing from the terminal
 - Error handling included
+- Utilisation of API for a simpler code
 
 ---
 
@@ -20,3 +21,4 @@ A simple command line chatbot built with **LangChain** and **OpenAI** that strea
 
 ## Sample Output
 ![image alt](https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/Chatbot%20output.png?raw=true)
+
