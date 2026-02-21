@@ -4,11 +4,8 @@ A simple command-line chatbot built with **LangChain** and **OpenAI** that strea
 
 ## Features
 
-- ✅ Chat with an OpenAI model from the terminal
-- ✅ Streaming output (response appears live as it is generated)
-- ✅ Uses `.env` for API key security
-- ✅ Basic error handling
-- ✅ Clean and beginner-friendly code structure
+- Chat with an OpenAI model of your choosing from the terminal
+- Error handling included
 
 ---
 
@@ -20,3 +17,4 @@ A simple command-line chatbot built with **LangChain** and **OpenAI** that strea
 - python-dotenv
 
 ---
+
