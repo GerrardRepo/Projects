@@ -7,7 +7,7 @@ RSA works by creating a **matched pair of keys**:
 The public key is used to encrypt data, and the private key is used to decrypt it.
 
 ### Step 1) Generate strong random numbers
-The program gets randomness from the operating system and converts it into numbers. Python documents `os.urandom()` as returning bytes suitable for cryptographic use from an OS-specific randomness source. :contentReference[oaicite:0]{index=0}
+The program gets randomness from the operating system and converts it into numbers.
 
 ### Step 2) Create two large prime numbers
 The program generates two large random odd numbers and tests whether they are probably prime using the **Miller–Rabin** primality test (repeated 40 times in this implementation).
