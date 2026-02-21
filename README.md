@@ -1,4 +1,4 @@
-# <Your Name> — Project Portfolio
+# Gerrard Yee's Project Portfolio
 
 Computer Engineering student focused on **cybersecurity, and applied AI/ML**.
 
