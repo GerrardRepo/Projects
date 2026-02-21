@@ -18,4 +18,5 @@ A simple command line chatbot built with **LangChain** and **OpenAI** that strea
 
 ---
 
-
+## Sample Output
+![image alt](https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/Chatbot%20output.png?raw=true)
