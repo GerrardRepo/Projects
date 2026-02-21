@@ -41,3 +41,6 @@ The demo encrypts a sample integer message, then decrypts it immediately:
 If `m2 == m`, the round trip succeeded, which confirms the generated keys work correctly.
 
 ---
+
+## Output Sample
+![image alt](https://github.com/QuandaleDingleBerries/Projects/blob/main/Image%20folder/RSA%20Output.png?raw=true)
