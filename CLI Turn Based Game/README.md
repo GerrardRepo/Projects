@@ -14,12 +14,27 @@ The arena includes several gameplay features, such as:
 - and **many more**.
 
 Overall, the project focuses on applying software engineering and object-oriented design concepts to build a functional, modular, and maintainable turn-based combat system.
-
 ## UML Class Diagram
 ![image alt](https://github.com/GerrardRepo/Projects/blob/fa180541145a4197561b7029d417553c133858f8/CLI%20Turn%20Based%20Game/Diagrams/class%20diagram.png)
 
 ## UML Sequence Diagram
 ![image alt](https://github.com/GerrardRepo/Projects/blob/8e634352aebef97f66d081d69046c1384028be62/CLI%20Turn%20Based%20Game/Diagrams/sequence%20diagram.png)
+
+## Sample Output
+### UI
+![image alt](https://github.com/GerrardRepo/Projects/blob/485c9f58945f41fec804fe3dc42df51eea409c3d/CLI%20Turn%20Based%20Game/Output%20Images/Intro.png)
+
+### Basic Attack
+![image alt](https://github.com/GerrardRepo/Projects/blob/485c9f58945f41fec804fe3dc42df51eea409c3d/CLI%20Turn%20Based%20Game/Output%20Images/Basic%20Attack.png)
+
+### Special Skill
+![image alt](https://github.com/GerrardRepo/Projects/blob/485c9f58945f41fec804fe3dc42df51eea409c3d/CLI%20Turn%20Based%20Game/Output%20Images/Special%20Skill.png)
+
+### Victory
+![image alt](https://github.com/GerrardRepo/Projects/blob/485c9f58945f41fec804fe3dc42df51eea409c3d/CLI%20Turn%20Based%20Game/Output%20Images/Victory.png)
+
+### Defeat
+![image alt](https://github.com/GerrardRepo/Projects/blob/485c9f58945f41fec804fe3dc42df51eea409c3d/CLI%20Turn%20Based%20Game/Output%20Images/Defeat.png)
 
 ## Combatants Statistics and Information
 
