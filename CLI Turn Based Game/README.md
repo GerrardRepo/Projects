@@ -19,7 +19,7 @@ Overall, the project focuses on applying software engineering and object-oriente
 ![image alt](https://github.com/GerrardRepo/Projects/blob/fa180541145a4197561b7029d417553c133858f8/CLI%20Turn%20Based%20Game/Diagrams/class%20diagram.png)
 
 ## UML Sequence Diagram
-![image alt](https://github.com/GerrardRepo/Projects/blob/13a52a2a97b0190787341b632b1fb4327e5f73ab/CLI%20Turn%20Based%20Game/Diagrams/SC2002%20sequence%20diagram.png)
+![image alt](https://github.com/GerrardRepo/Projects/blob/8e634352aebef97f66d081d69046c1384028be62/CLI%20Turn%20Based%20Game/Diagrams/sequence%20diagram.png)
 
 ## Combatants Statistics and Information
 
