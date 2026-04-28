@@ -16,7 +16,7 @@ The arena includes several gameplay features, such as:
 Overall, the project focuses on applying software engineering and object-oriented design concepts to build a functional, modular, and maintainable turn-based combat system.
 
 ## UML Class Diagram
-![image alt]()
+![image alt](https://github.com/GerrardRepo/Projects/blob/5692b79a9315d8e48a37bc92f0e06d7c0a5b4d50/CLI%20Turn%20Based%20Game/Diagrams/SC2002%20CLASS%20DIAGRAM.png)
 
 ## UML Sequence Diagram
 ![image alt]()
