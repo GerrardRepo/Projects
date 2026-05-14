@@ -26,6 +26,6 @@ I use these projects to translate theory from coursework and certifications into
 - **DPO Arithmetic Machine Learning Model**
 - **Terminal-Based AI Chatbot**
 - **Command-Line Turn-Based Game**
-- **ParkPulse** — Full-stack carpark search application
+- **ParkPulse** => A Full-stack carpark search application
 
 ---
