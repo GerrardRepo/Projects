@@ -20,4 +20,12 @@ This repo is meant to show how I approach technical work:
 
 I use these projects to translate theory from coursework and certifications into hands on implementation.
 
+## Project List
+- **Trie-Based Autocomplete Search Engine with Ranking**
+- **Educational RSA Key Pair Generator**
+- **DPO Arithmetic Machine Learning Model**
+- **Terminal-Based AI Chatbot**
+- **Command-Line Turn-Based Game**
+- **ParkPulse** — Full-stack carpark search application
+
 ---
