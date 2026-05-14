@@ -2,23 +2,24 @@
 
 Computer Engineering student focused on **cybersecurity, and applied AI/ML**.
 
-This repository is a collection of projects I built to strengthen practical skills in:
+This repository contains projects I built to strengthen my hands-on technical skills in:
 
-- **Applied Cryptography**
-- **Software development** 
-- **AI/ML experimentation**
-- **Programming skills**
+- Applied cryptography
+- Software development
+- AI/ML experimentation
+- Data structures and algorithms
+- Command-line application development
+- Full-stack application development
 
 ## What this portfolio is for
 
 This repo is meant to show how I approach technical work:
 
-- break down problems clearly
-- build working solutions
-- document assumptions and tradeoffs
-- improve iteratively through testing/debugging
-
-I use these projects to translate theory from coursework and certifications into hands on implementation.
+- Breaking down problems clearly
+- Building working solutions
+- Documenting assumptions and trade-offs
+- Testing, debugging, and improving iteratively
+- Translating theory from coursework and certifications into practical implementations
 
 ## Project List
 - **Trie-Based Autocomplete Search Engine with Ranking**
